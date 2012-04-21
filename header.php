@@ -35,6 +35,7 @@
 		<nav>
 			<ul>
 				<li><a href="/about">About</a></li>
+				<li><a href="/blog">Blog</a></li>
 				<li><a href="http://twitter.com/gradespotter"><img src="/img/icon-twitter.png"></a></li>
 			</ul>
 		</nav>
