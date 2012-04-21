@@ -17,11 +17,11 @@
 			<h2>Blog</h2>
 			<hr/>
 			<ul id="posts">
-				<!--<li>
+				<li>
 					<h4><a href="/blog/radio-commercial">Radio Commercial</a></h4>
-					<p class="timestamp">April 17th, 2012 by Kennedy</p>
+					<p class="timestamp">April 20th, 2012 by Kennedy</p>
 					<p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F42942935&amp;auto_play=false&amp;show_artwork=false&amp;color=54abd0"></iframe></p>
-				</li>-->
+				</li>
 				<li>
 					<h4><a href="/blog/our-journey">Our Journey</a></h4>
 					<p class="timestamp">April 20th, 2012 by Kennedy</p>

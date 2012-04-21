@@ -93,6 +93,10 @@
 <p><img src="/blog/assets/our-journey/chart.png"/></p>
 
 <p>I just wanted to give a special thanks to Rich, Kristina, and my wife for helping me build an awesome product.</p>
+
+<hr/>
+<p>Please join the conversation on <a href="http://news.ycombinator.com/item?id=3867929">Hacker News</a>.</p>
+
 		</article>
 	</div><!--/page-->
 	
