@@ -165,7 +165,7 @@ nav img{
 	text-shadow: 0 2px 2px rgba(0,0,0,0.7);
 }
 #intro-content{
-    float:left;
+    float:right;
     margin:50px 0 60px;
     width:540px;
 }
