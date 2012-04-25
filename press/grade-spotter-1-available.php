@@ -7,8 +7,9 @@
 		<aside>
 			<ul>
 				<li><a href="/about">About</a></li>
-				<li><a href="/support">Support</a></li>
+				<li><a href="/blog">Blog</a></li>
 				<li class="active"><a href="/press">Press</a></li>
+				<li><a href="/support">Support</a></li>
 				<li><a href="/contact">Contact</a></li>
 			</ul>
 		</aside>
