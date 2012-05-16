@@ -517,13 +517,6 @@ footer a{
 	color:#aaa;
 }
 /* ========================================================= Forms ===*/
-label{
-    color:#b6bcbf;
-    position:absolute;
-    top:8px;
-    left:12px;
-    font-size:18px;
-}
 form {
 	margin: 0;
 }
@@ -543,6 +536,13 @@ form li:after {
 form li:before, form li:after {
 	content: "";
 	display: table;
+}
+form label{
+    color:#b6bcbf;
+    position:absolute;
+    top:8px;
+    left:12px;
+    font-size:18px;
 }
 input[type=text],input[type=email]{
 	border: 1px solid #b9b9b9;

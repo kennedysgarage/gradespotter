@@ -20,7 +20,7 @@
 				<li>
 					<h4><a href="/blog/grade-spotter-1.1">Grade Spotter 1.1</a></h4>
 					<p class="timestamp">April 24th, 2012 by Kennedy</p>
-					
+					<p>We have just pushed out our first update and I could not be more proud our little app. The best part of building any project is getting the chance to make improvements on it. This means that the product has value and is worth to continue pushing forward with the idea. I have be hitting the street and asking a lot of people for their feedback, everyone from other UX professionals, restaurant owners, and anyone else that was willing to listen to me. We took all of these ideas and laid them out and ordered them based on importance. From there we have broke it down into a few versions, a roadmap of sorts. We are extremely happy to announce Grade Spotter 1.1!</p>
 				</li>
 				<li>
 					<h4><a href="/blog/radio-commercial">Radio Commercial</a></h4>
